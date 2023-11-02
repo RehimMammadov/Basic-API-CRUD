@@ -1,0 +1,54 @@
+{
+  "coffees": [
+    {
+      "id": 1,
+      "product": "Americano",
+      "price": 7.2
+    },
+    {
+      "id": 2,
+      "product": "Espresso",
+      "price": 6.2
+    },
+    {
+      "id": 3,
+      "product": "Cappuccino",
+      "price": 8.2
+    },
+    {
+      "id": 4,
+      "product": "Latte",
+      "price": 8.2
+    },
+    {
+      "id": 5,
+      "product": "Mocha",
+      "price": 10.2
+    },
+    {
+      "product": "Raf",
+      "price": "11.2",
+      "id": 6
+    },
+    {
+      "product": "Croissant",
+      "price": "5.8",
+      "id": 7
+    },
+    {
+      "product": "CheeseCake",
+      "price": "10.2",
+      "id": 8
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
